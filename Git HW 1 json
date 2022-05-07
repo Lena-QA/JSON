@@ -24,7 +24,7 @@ JSON
  cat >skills.json 
  vim skills.json
  12. Отправить сразу 2 файла на внешний git репозиторий.
- git add. > git commit -m "add ." > git push 
+ git add . > git commit -m "add ." > git push 
  13. На веб интерфейсе создать файл bug_report.json.
  add file > create new file
  14. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
