@@ -1,9 +1,9 @@
 { "ID":1,
  "Title":"The error 404 occurs when clicking on Shopping bag", 
- "Severity":"Major",
+ "Severity":"Critical",
  "Priority":"High",
  "Environment":"Samsung Galaxy S10e, Android 12",  
- "Steps to Reproduce":"Go to the product page >add the product to the shopping bag > click shopping bag icon on the top right",
- "Actual Result":"Error 404", 
- "Expected result":"The list of chosen products",
+ "STR": "Open the website > Go to the product page >add the product to the shopping bag > click shopping bag icon on the top right",
+ "AR":"Error 404", 
+ "ER":"The list of chosen products",
  "Attachment":"Screenshot" }
