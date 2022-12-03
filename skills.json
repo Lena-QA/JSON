@@ -1,7 +1,7 @@
 {
-	"hard_skills": ["software_testing_types",
-		        "bug_tracking_tools",
-			"programming_language"],
+	"hard_skills": ["postman",
+		        "sql",
+			"test_documentation"],
 	"soft_skills": ["teamwork",
 		        "attention_to_details",
 			"communication_skills"]
